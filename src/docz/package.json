@@ -9,6 +9,6 @@
   "dependencies": {
     "docz": "^2.4.0",
     "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react-dom": "^19.2.1"
   }
 }
